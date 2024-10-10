@@ -8,4 +8,3 @@ ollama
 python-dotenv
 sentence-transformers
 faiss-cpu
-faiss-gpu
