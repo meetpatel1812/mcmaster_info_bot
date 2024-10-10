@@ -6,3 +6,4 @@ PyPDF2
 langchain-groq
 ollama
 python-dotenv
+sentence-transformers
